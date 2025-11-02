@@ -5,11 +5,13 @@
   "scripts": {
     "dev": "next dev --webpack",
     "build": "next build --webpack",
-    "start": "next start"
+    "start": "next start",
+    "deploy": "npm run build && git add . && git commit -m 'Deploy' && git push"
   },
   "dependencies": {
+    "crypto-js": "^4.2.0",
+    "next": "16.0.1",
     "react": "19.2.0",
-    "react-dom": "19.2.0",
-    "next": "16.0.1"
+    "react-dom": "19.2.0"
   }
 }
