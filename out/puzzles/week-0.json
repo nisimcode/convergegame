@@ -1,0 +1,68 @@
+{
+  "weekNumber": 0,
+  "startDate": "2025-11-03",
+  "theme": "Vatican",
+  "riddles": [
+    {
+      "id": "A",
+      "icon": "🧩",
+      "clues": [
+        "Free from imperfection or flaws",
+        "Morally excellent or virtuous",
+        "Set apart for special purpose",
+        "Regarded with reverence",
+        "Spiritually perfect"
+      ],
+      "weeklyAnswerHash": "5d41402abc4b2a76b9719d911017c592"
+    },
+    {
+      "id": "B",
+      "icon": "🔮",
+      "clues": [
+        "Country known for neutrality",
+        "Famous for precision timepieces",
+        "Alpine mountain nation",
+        "Cheese with distinctive holes",
+        "Home of the Red Cross"
+      ],
+      "weeklyAnswerHash": "6512bd43d9caa6e02c990b0a82652dca"
+    },
+    {
+      "id": "C",
+      "icon": "🎯",
+      "clues": [
+        "Ancient empire's capital",
+        "City built on seven hills",
+        "Where the Colosseum stands",
+        "Called the Eternal City",
+        "Tiber River flows through it"
+      ],
+      "weeklyAnswerHash": "2d20cb7501f1d61df8c5a25a390a53a5"
+    },
+    {
+      "id": "D",
+      "icon": "🌟",
+      "clues": [
+        "System of beliefs and worship",
+        "Sacred texts and scriptures",
+        "Organized spiritual community",
+        "Rituals and ceremonies",
+        "Moral code or set of principles"
+      ],
+      "weeklyAnswerHash": "68f1b5e9d9b9d8c7b6a5e4f3c2b1a0f9"
+    },
+    {
+      "id": "E",
+      "icon": "⚡",
+      "clues": [
+        "Rising vapor from burning",
+        "White or black signal from chimney",
+        "Byproduct of combustion",
+        "Visible in air after fire",
+        "Used to announce papal election"
+      ],
+      "weeklyAnswerHash": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918"
+    }
+  ],
+  "metaAnswerHash": "8b1a9953c4611296a827abf8c47804d7"
+}
